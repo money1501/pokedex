@@ -19,14 +19,6 @@ The app will open at **http://localhost:8501** in your browser.
 
 ---
 
-## 🗺️ GeoSpatial Tab Features
-- **300 synthetic site records** for 5 Gujarat cities (Ahmedabad, Surat, Vadodara, Rajkot, Gandhinagar)
-- EDA: Histograms, city comparison, boxplots, correlation heatmap
-- Inferential Stats: Two-Sample T-Test, CLT visualization, 95% CIs
-- ML: Linear Regression (R², MAE), K-Means Clustering (Elbow Method, 3 zones)
-- Interactive Folium-style map + Top 15 sites table
-- **Live predictor**: Enter your own site features → get readiness score + zone
-
 ## 🎮 Pokémon Tab Features
 - Live data from **PokéAPI** (Gen 8: IDs 810–905)
 - Encounter Rate predicted using Linear Regression trained on base stats

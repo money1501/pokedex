@@ -1,5 +1,5 @@
-# 🌐 Dual Dashboard — GeoSpatial + Pokémon Gen 8
-### OEP Project | Dhyey Vala | IU2341230694 | CE0630
+# 🌐Pokémon Gen 8
+
 
 ---
 
